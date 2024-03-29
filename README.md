@@ -1,4 +1,4 @@
 # demo
 This is my first Git Repository.
 <br>
-Auther - Aniket (student)fjhf
+Auther - Aniket (student)
